@@ -1,6 +1,15 @@
 .form {
   text-align: right;
 }
+.form .wrapper {
+  display: flex;
+}
+.form .amount {
+  display: flex;
+  font-weight: bold;
+  padding: 0.15rem 0.75rem;
+  color: #ad1212;
+}
 
 .form button {
   font: inherit;
@@ -8,7 +17,7 @@
   background-color: #0a99db;
   border: 1px solid #0a99db;
   color: white;
-  padding: 0.25rem 1rem;
+  padding-left: 1rem;
   border-radius: 20px;
   font-weight: bold;
 }
