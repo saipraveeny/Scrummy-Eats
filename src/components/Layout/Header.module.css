@@ -73,3 +73,8 @@
   font-family: mainfont;
   src: url(../../assets/dream\ orphans\ bd.ttf);
 }
+
+.header_option {
+  display: flex;
+  /* width: 100%; */
+}
