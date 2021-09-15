@@ -1,0 +1,18 @@
+routing
+(2 tasks)
+
+my orders 
+profile
+
+home page
+
+place order ( form -> (using bootstrap) -  submit)
+
+onSubmit - update in my orders
+
+redux
+
+
+http
+
+authentication
