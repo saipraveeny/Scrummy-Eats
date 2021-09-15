@@ -76,5 +76,6 @@
 
 .header_option {
   display: flex;
+  color: black;
   /* width: 100%; */
 }
